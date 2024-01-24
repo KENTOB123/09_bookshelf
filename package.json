@@ -5,7 +5,9 @@
   "proxy": "http://localhost:8080",
   "dependencies": {
     "@babel/core": "^7.16.0",
-    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
     "@svgr/webpack": "^5.5.0",
@@ -39,6 +41,7 @@
     "jest-resolve": "^27.4.2",
     "jest-watch-typeahead": "^1.0.0",
     "mini-css-extract-plugin": "^2.4.5",
+    "mongodb": "^6.3.0",
     "mongoose": "^6.12.5",
     "postcss": "^8.4.4",
     "postcss-flexbugs-fixes": "^5.0.2",
